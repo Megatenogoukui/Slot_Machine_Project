@@ -1,0 +1,15 @@
+{
+  "name": "slot_machine_project",
+  "version": "1.0.0",
+  "description": "\"This is a slot machine project\"",
+  "main": "project.js",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abhishek Naik",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
